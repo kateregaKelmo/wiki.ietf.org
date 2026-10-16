@@ -1,23 +1,23 @@
-# SW103K AfriQloud Validation – Version 1
+# SW103K Validation – Version 1
 
 ## Purpose
 
-This package enables AfriQloud to independently validate the two priority
+This package enables datacenter to independently validate the two priority
 SW103K use cases:
 
 1. Bandwidth Usage Reduction
 2. Storage Saving / Enhancement
 
-The objective is for AfriQloud to execute the validation in its own
+The objective is for data center to execute the validation in its own
 environment and generate its own runtime evidence.
 
 Developer-generated logs and engineering evidence are supplied separately
 as supporting technical evidence and are not intended to replace
-AfriQloud-side execution.
+datacenter-side execution.
 
 ## Validation principle
 
-The primary validation evidence should be generated when AfriQloud runs
+The primary validation evidence should be generated when datacenter runs
 the supplied validation workflow.
 
 The resulting evidence should include, where applicable:
